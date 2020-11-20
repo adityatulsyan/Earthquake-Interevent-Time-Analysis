@@ -1,0 +1,12 @@
+Search summary:
+Database: Reviewed ISC Bulletin
+Search type: Rectangular search
+Latitude range: -10 to 10
+Longitude range: 90 to 110
+Start date: 1900-01-01 00:00:00
+End date: 2020-10-20 00:00:00
+Origin depth >= 0 and <= 200
+ISC Magnitude >= 6 and <= 10
+Events found: 347
+Data on or after 2018/07/01 have not been reviewed by the ISC.
+
