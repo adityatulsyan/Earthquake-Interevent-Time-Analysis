@@ -1,0 +1,5 @@
+Fitting of the distribution ' exp ' by matching moments 
+Parameters : 
+     estimate
+rate 1.594322
+Loglikelihood:  -85.90173   AIC:  173.8035   BIC:  176.8849 

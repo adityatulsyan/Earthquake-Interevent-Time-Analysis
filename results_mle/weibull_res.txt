@@ -1,0 +1,11 @@
+Fitting of the distribution ' weibull ' by maximum likelihood 
+Parameters : 
+       estimate Std. Error
+shape 0.8456672 0.04948431
+scale 0.5691232 0.05604256
+Loglikelihood:  -81.36024   AIC:  166.7205   BIC:  172.8833 
+Correlation matrix:
+          shape     scale
+shape 1.0000000 0.3229546
+scale 0.3229546 1.0000000
+

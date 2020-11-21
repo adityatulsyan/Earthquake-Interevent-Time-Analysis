@@ -1,0 +1,6 @@
+Fitting of the distribution ' lnorm ' by matching moments 
+Parameters : 
+         estimate
+meanlog -1.021589
+sdlog    1.053699
+Loglikelihood:  -99.15332   AIC:  202.3066   BIC:  208.4695 

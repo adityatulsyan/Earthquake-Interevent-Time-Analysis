@@ -1,0 +1,11 @@
+Fitting of the distribution ' gamma ' by maximum likelihood 
+Parameters : 
+       estimate Std. Error
+shape 0.8055547 0.07751473
+rate  1.2842414 0.16729538
+Loglikelihood:  -83.21791   AIC:  170.4358   BIC:  176.5986 
+Correlation matrix:
+          shape      rate
+shape 1.0000000 0.7386717
+rate  0.7386717 1.0000000
+

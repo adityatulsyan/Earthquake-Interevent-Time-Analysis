@@ -1,0 +1,6 @@
+Fitting of the distribution ' gamma ' by matching moments 
+Parameters : 
+       estimate
+shape 0.4913494
+rate  0.7833695
+Loglikelihood:  -94.85328   AIC:  193.7066   BIC:  199.8694 

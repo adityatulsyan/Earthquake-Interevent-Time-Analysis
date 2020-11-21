@@ -1,0 +1,11 @@
+Fitting of the distribution ' lnorm ' by maximum likelihood 
+Parameters : 
+         estimate Std. Error
+meanlog -1.202592 0.10715146
+sdlog    1.359600 0.07576734
+Loglikelihood:  -84.28948   AIC:  172.579   BIC:  178.7418 
+Correlation matrix:
+            meanlog       sdlog
+meanlog 1.00000e+00 1.44215e-11
+sdlog   1.44215e-11 1.00000e+00
+

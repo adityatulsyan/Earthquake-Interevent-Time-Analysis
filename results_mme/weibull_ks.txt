@@ -1,0 +1,7 @@
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  data
+D = 0.22398, p-value = 1.93e-07
+alternative hypothesis: two-sided
+

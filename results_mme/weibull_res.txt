@@ -1,0 +1,6 @@
+Fitting of the distribution ' weibull ' by matching moments 
+Parameters : 
+       estimate
+shape 0.7153732
+scale 0.5056480
+Loglikelihood:  -85.11699   AIC:  174.234   BIC:  180.3968 
