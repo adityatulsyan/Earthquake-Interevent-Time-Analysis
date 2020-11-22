@@ -1,5 +1,5 @@
 #install.packages("fitdistrplus", repo="http://cran.rstudio.com/");
-install.packages("actuar", repo="http://cran.rstudio.com/");
+#install.packages("actuar", repo="http://cran.rstudio.com/");
 
 library(fitdistrplus)
 library(actuar)
@@ -13,7 +13,7 @@ print("Processing the exponential distribution")
 res = fitdist(data, "exp", method = method);
 summary(res)
 print("1234:")
-capture.output(summary(res), file = "results/exp_re.txt")
+capture.output(summary(res), file = "results/exp_res.txt")
 ans = ks.test(data, "pexp", res[["estimate"]])
 capture.output(ans, file = "results/exp_ks.txt")
 

@@ -13,7 +13,7 @@ x = (x + np.roll(x, -1))[:-1] / 2.0
 dists = {
     'exponential': st.expon,
     'gamma': st.gamma,
-    'weibull': st.exponweib,
+    'weibull': st.weibull_min,
     'lognormal': st.lognorm
 }
 
