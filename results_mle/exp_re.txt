@@ -1,5 +1,0 @@
-Fitting of the distribution ' exp ' by maximum likelihood 
-Parameters : 
-     estimate Std. Error
-rate 1.594323  0.1256502
-Loglikelihood:  -85.90173   AIC:  173.8035   BIC:  176.8849 
