@@ -1,5 +1,5 @@
 # Earthquake-Interevent-Time-Analysis
-Preparation files and guidelines:
+PROBLEM STATEMENT
 1. Earthquake interevent time analysis helps up to assess earthquake hazards of a seismic region. Several probability distributions are used for this purpose. Before we proceed, let us first understand a few basic concepts about earthquakes. Visit https://earthquake.usgs.gov/education/ for details.
 2. What is an earthquake? Is Indonesia prone to earthquakes? What do you mean by earthquake prediction? Is earthquake prediction same as earthquake forecasting? Find at https://www.usgs.gov/faqs/can-you- predict-earthquakes?qt-news_science_products=0#qt-news_science_products
 3. Now let us collect previous earthquakes for the Sumatra and adjacent regions. For this, visit http://www.isc.ac.uk/iscbulletin/search/catalogue/, in ISC Bulletin  CSV formatted catalogue  rectangular search region, latitude -10 to 10 deg N, longitude 90-110 deg E  time period 1900.01.01 to 2020.10.20  additional parameters, depth 0-200 km, magnitude 6-10, magnitude type ‘any’, magnitude author ISC output event catalogue. Thus you get a list of earthquakes that occurred in the region after 1900.
